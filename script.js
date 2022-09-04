@@ -58,7 +58,7 @@ function mulaiketik2() {if(ac<vketik2.length){kalimatb.innerHTML += vketik2.char
   function befanimkata3(){kalimat.style="";kalimatb.style="";kalimat.style="opacity:0";kalimatb.style="opacity:0";} 
   function animkata3() {kalimat.innerHTML = kalimat3.innerHTML + balasan;kalimatb.innerHTML = kalimatb3.innerHTML;kalimat.style="opacity:1;font-size:18px;transition:none";kalimatb.style="opacity:1;font-size:17px;font-weight:400;transition:none";}
   
-  function stakhir(){tmbl.innerHTML="ðŸ’Œ Kirim";Tombol.style="opacity:1;transform: scale(1)";ftom=5;fungsi=0;}
+  function stakhir(){tmbl.innerHTML="💌 Kirim";Tombol.style="opacity:1;transform: scale(1)";ftom=5;fungsi=0;}
   
   async function dibalas(){
       setInterval(createHeart,200);
